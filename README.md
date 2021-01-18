@@ -9,10 +9,14 @@ The database contains 1.8 Million Sales Orders spread over 15 years. It is an eC
 Add filter to Select Month, that should render the data on the map based on the Selected month across ALL the years.
 Add filter to Select State, that should zoom-in the map with the selected State only and now display the data in each City/Region within that state.
 
+Answer:  https://public.tableau.com/profile/amit6708#!/vizhome/Cahoot_15812911817200/Q_1?publish=yes
+
 
 2. Use a heat-map to visually display the Average Order Value (AOV) on a map of the USA.
 Add filter to Select Month, that should render the data on the map based on the Selected month across ALL the years.
 Add filter to Select State, that should zoom-in the map with the selected State only and now display the data in each on City/Region within that state.
+
+Answer:  https://public.tableau.com/profile/amit6708#!/vizhome/Cahoot_15812911817200/Q_2
 
  
 
@@ -20,6 +24,6 @@ Add filter to Select State, that should zoom-in the map with the selected State 
 Add filter to Select Month, that should render the data on the map based on the Selected month across ALL the years.
 Add filter to Select Country, that should zoom-in the map with the selected Country and display the data concentration based on Country.
 
-#Tableau link:
+Answer:  https://public.tableau.com/profile/amit6708#!/vizhome/Cahoot_15812911817200/Q_3
 
-https://public.tableau.com/profile/amit6708#!/vizhome/Cahoot_15812911817200/Q_1?publish=yes
+
